@@ -59,9 +59,12 @@ The application can run on:
 ## Running the Application
 
 1. Ensure Python 3 is installed on your system
-2. Save the `bank_system.py` file to your local directory
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/MarcelHuang/awesomegic-bank-system
+   ```
 3. Open a terminal or command prompt
-4. Navigate to the directory containing the file
+4. Navigate to the cloned repository directory
 5. Run the following command:
 
 ```bash
